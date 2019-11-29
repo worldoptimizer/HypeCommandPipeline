@@ -21,7 +21,7 @@ myFunction|"I am a string", 1, { "hello": [1,2,3,4,5,6] }
 ```
 
 ### Versionhistory
-`1.0 (Beta) Initial release under MIT-license
-1.1 Fixed error handling and now the errors are detailed
+`1.0 (Beta) Initial release under MIT-license`\
+`1.1 Fixed error handling and now the errors are detailed
 1.2 Fixed pipeline and made parsing more robust
 1.3 Converted into a self contained extension`
