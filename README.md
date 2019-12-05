@@ -3,6 +3,7 @@
 ![Hype-commandPipeline|690x487](https://playground.maxziebell.de/Hype/CommandPipeline/HypeCommandPipeline.png) 
 
 ---
+### Usage and inspiration
 
 <img src='https://forums.tumult.com//uploads/db2156/original/2X/1/19f684bf0e0ab570320fa8a2a4bde62dff4e2f2c.jpeg'>
 
@@ -24,7 +25,7 @@ You can call built in functions but mostly that doesn't make sense as they are a
 myFunction|"I am a string", 1, { "hello": [1,2,3,4,5,6] }
 ```
 
-### Versionhistory
+### Version history
 `1.0 (Beta) Initial release under MIT-license`\
 `1.1 Fixed error handling and now the errors are detailed`\
 `1.2 Fixed pipeline and made parsing more robust`\
