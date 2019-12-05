@@ -1,8 +1,12 @@
 # Hype CommandPipeline
 
+![Hype-commandPipeline|690x487](https://playground.maxziebell.de/Hype/CommandPipeline/HypeCommandPipeline.png) 
+
+---
+
 <img src='https://forums.tumult.com//uploads/db2156/original/2X/1/19f684bf0e0ab570320fa8a2a4bde62dff4e2f2c.jpeg'>
 
-As I saw this technic used in simpler ways on the forum. The idea behind it is that one maps different function calls originating from triggering custom behavior onto the same `handler` function and then uses `event.customBehaviorName` to run an action.
+As I saw this approach used in simpler ways on the forum. The idea behind it is that one maps different function calls originating by triggering custom behavior onto the same `handler` function and then uses `event.customBehaviorName` to run an action.
 
 This allows you to call functions in the hypeDocument scope using the timeline or actions panel without wrapping them in a Hype function first. This is specially useful for commands that trigger stuff from the timeline as you don’t have to create all these hype function wrappers for slight differences in parameters. Triggering the command ...
 ```
