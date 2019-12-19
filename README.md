@@ -1,7 +1,7 @@
 # Hype CommandPipeline
 
 ![Hype-commandPipeline|690x487](https://playground.maxziebell.de/Hype/CommandPipeline/HypeCommandPipeline.png) 
-
+<sup>The cover artwork is not hosted in this repository and &copy;opyrighted by Max Ziebell</sup>
 
 ### Usage and inspiration
 
