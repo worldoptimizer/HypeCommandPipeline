@@ -30,3 +30,15 @@ myFunction|"I am a string", 1, { "hello": [1,2,3,4,5,6] }
 `1.1 Fixed error handling and now the errors are detailed`\
 `1.2 Fixed pipeline and made parsing more robust`\
 `1.3 Converted into a self contained extension`
+
+Content Delivery Network (CDN)
+--
+Latest minified version can be linked into your project using the following in the head section of your project:
+```html
+<script src="https://cdn.jsdelivr.net/gh/worldoptimizer/HypeCommandPipeline/HypeCommandPipeline.min.js"></script>
+```
+
+Optionally you can also link a SRI version or specific releases. Read more about that on the jsDelivr's global Content Delivery Network (CDN) landing page for this extension at https://www.jsdelivr.com/package/gh/worldoptimizer/HypeCommandPipeline
+
+Learn how to use the latest extension version and how to combine extentions into one file at
+https://github.com/worldoptimizer/HypeCookBook/wiki/Including-external-files-and-Hype-extensions
