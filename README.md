@@ -41,5 +41,5 @@ Latest version can be linked into your project using the following in the head s
 Optionally you can also link a SRI version or specific releases. 
 Read more about that on the JsDelivr (CDN) page for this extension at https://www.jsdelivr.com/package/gh/worldoptimizer/HypeCommandPipeline
 
-Learn how to use the latest extension version and how to combine extentions into one file at
+Learn how to use the latest extension version and how to combine extensions into one file at
 https://github.com/worldoptimizer/HypeCookBook/wiki/Including-external-files-and-Hype-extensions
